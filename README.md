@@ -4,7 +4,7 @@ This template is based on clean architecture principles, ideal for starting mono
 
 ## Getting Started
 
-To set up and start working on this project, follow these steps:
+To start using this template, you can either click on <code> Use this template </code> on top right <br> or follow these steps:
 
 1. Execute the following command:
    ```
